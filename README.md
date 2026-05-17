@@ -50,7 +50,7 @@ HealthSense AI brings together three intelligent systems in a single Android app
 
 | 🏠 Dashboard | 📊 Insights | 🤖 AI Predictions |
 |:---:|:---:|:---:|
-| <img src="screen_dashboard.jpeg" width="220"/> | <img src="screen_insights.jpeg" width="220"/> | <img src="screen_predictions.jpeg" width="220"/> |
+| <img width="716" height="1600" alt="WhatsApp Image 2026-04-05 at 9 05 56 PM (2)" src="https://github.com/user-attachments/assets/e8f2d994-1008-4ede-8858-cf6acbe3d528" /> | <img width="716" height="1600" alt="WhatsApp Image 2026-04-05 at 9 05 56 PM (1)" src="https://github.com/user-attachments/assets/7c93ed4f-3f17-4e30-bcc2-f05db9551728" /> | <img width="716" height="1600" alt="WhatsApp Image 2026-04-05 at 9 05 56 PM" src="https://github.com/user-attachments/assets/b28b0c34-37ea-4981-b773-9d5e5b185a4b" /> |
 | Live biometric feed & smartwatch status | 7-day heart rate, SpO₂ & sleep trends | ML risk level + Gemini suggestions |
 
 </div>
